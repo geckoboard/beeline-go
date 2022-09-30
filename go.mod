@@ -12,14 +12,14 @@ require (
 	github.com/gobuffalo/pop/v5 v5.3.1
 	github.com/google/uuid v1.1.3
 	github.com/gorilla/mux v1.8.0
-	github.com/honeycombio/libhoney-go v1.15.0
+	github.com/honeycombio/libhoney-go v1.17.0
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/labstack/echo/v4 v4.1.17
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.0
 	go.opentelemetry.io/contrib/propagators v0.15.1
 	go.opentelemetry.io/otel v0.15.0
 	goji.io/v3 v3.0.0
