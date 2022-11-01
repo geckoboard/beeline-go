@@ -19,11 +19,10 @@ require (
 	github.com/labstack/echo/v4 v4.1.17
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/contrib/propagators v0.15.1
 	go.opentelemetry.io/otel v0.15.0
 	goji.io/v3 v3.0.0
-	google.golang.org/grpc v1.27.0
-	google.golang.org/protobuf v1.25.0 // indirect
+	google.golang.org/grpc v1.50.1
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
